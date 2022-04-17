@@ -1,0 +1,21 @@
+#include <math.h>
+#include <stdio.h>
+
+int main() {
+   int a,b;
+   int sum,sub,mult,mod;
+   float div;
+   scanf("%d%d", &a,&b);
+   sum= a+b;
+   sub= a-b;
+   mult= a*b;
+   mod= a%b;
+   div= (float)a/(float)b;
+   printf("\n%d",sum);
+   printf("\n%d",sub);
+   printf("\n%d",mult);
+   printf("\n%d",mod);
+   printf("\n%0.3f",div);
+   
+    return 0;
+}
