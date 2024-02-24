@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shikharrajken
+- 👋 Hi, I’m @Shikharraj
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on anything that make me learn
